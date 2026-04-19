@@ -1,11 +1,11 @@
 # Photomap
 A Leaflet map that reads data from Google Sheets.  
 
-Created as an example for [GEOG 4046](https://geog4046.github.io).  
+Created as assignment 10 for [GEOG 4046](https://geog4046.github.io).  
 
 Each row in the sheet will appear as a marker on the map. When the marker is clicked, a popup will appear showing information about the location, taken from the columns of the spreadsheet.  
 
-This script assumes the Google Sheet has the following columns. These match the attribute names used for the [Story Map Tour](https://www.arcgis.com/home/item.html?id=91d75e9b375e4e9b9b3a4004544bfadf) template in ArcGIS Online.  
+This script assumes the Google Sheet has the following columns. This is a sample map showing 7 points of interest around Paris, France.   
 
 Column name | Description
 :-----------|--------------------------------------------------------------
